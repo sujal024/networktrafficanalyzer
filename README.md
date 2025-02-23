@@ -25,5 +25,3 @@ UDP Packets: Number of UDP packets captured.
 Bandwidth Usage: Current bandwidth usage in KB/s.
 Graph: A real-time visualization of TCP (#) and UDP (*) traffic over the last 25 samples.
 
-## Exiting the Program
-Press Ctrl+C or Ctrl+Z to stop monitoring and exit cleanly
